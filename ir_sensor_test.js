@@ -6,7 +6,7 @@
 // });
 // gpio.setup(7, gpio.DIR_IN);
 
-var gpio = require('rpi-gpios'); 
+var gpio = require('rpi-gpio'); 
 
 // Load the http module to create an http server.
 var http = require('http');
